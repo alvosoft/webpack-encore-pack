@@ -1,5 +1,5 @@
 {
-    "name": "symfony/webpack-encore-pack",
+    "name": "alvosoft/webpack-encore-pack",
     "type": "symfony-pack",
     "license": "MIT",
     "description": "A pack for Symfony Encore",
